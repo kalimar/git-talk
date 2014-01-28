@@ -1,0 +1,31 @@
+h1 {
+    text-align: left;
+    padding-left: 2%;
+}
+
+
+img {
+    position: relative;
+    min-height: 70%;
+    min-width: 70%;
+
+    width: 90%;
+    hieght: auto;
+
+    top: 0px;
+    left: 50px;
+}
+
+h2 {
+    position: absolute;
+    top: 100px;
+    left: -200px;
+    width: 100%;
+}
+
+h2 span {
+    color: white;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+}

@@ -2,7 +2,13 @@ title "Git and GitHub"
 
 description "A very brief intro to how I use Git, Github and Github Gist"
 
-theme "slate"
+# theme "slate"
+# theme "archetect"
+# theme "hack"
+# theme "hayfield"
+# theme "merlot"
+theme "minimal"
+
 
 section "Presentation" do
         slides "git-talk.md"
