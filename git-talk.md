@@ -1,25 +1,23 @@
 !SLIDE
-# Git, GitHub and Gists
+# Git, GitHub and Gists</span>
 ![octobiwan](resources/octobiwan.jpg)
+
 !SLIDE
 # Collaborate on projects
 ![add-feature](resources/Github.png)
+
 !SLIDE
+<!-- # Branches -->
 ![add-feature](resources/add-feature.png)
-!SLIDE
-#
-github - cloud based integration with git
 
 !SLIDE
-## gist
-* Quick demonstration using emacs and markdown
+# Gists
+## http://gist.github.com/kalimar
+!SLIDE
+# Git Tutorial
+## http://gitimmersion.com
 
 !SLIDE
-## git immersion tutorial
-
-
-
-
 Git - version control
 Github - Webapp that integrates with Git
 Gist - Github tool for sharing snippets of code
