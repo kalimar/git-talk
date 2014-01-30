@@ -1,3 +1,3 @@
-Part of Git-talk
-====================
-We are using this text file as part of how we can use version control
+Brief talk on Version Control
+=============================
+ ## Uses Git and Github with a touch of Gist
