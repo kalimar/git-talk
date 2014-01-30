@@ -1,14 +1,22 @@
 !SLIDE
-# Git, GitHub and Gists</span>
+# Version Control
+### With Git, GitHub and Gists
 ![octobiwan](resources/octobiwan.jpg)
-
-!SLIDE
-# Collaborate on projects
-![add-feature](resources/Github.png)
 
 !SLIDE
 <!-- # Branches -->
 ![add-feature](resources/add-feature.png)
+
+!SLIDE
+# Collaborate on Projects
+![github](resources/Github.png)
+
+<!-- !SLIDE -->
+<!-- # CATS -->
+<!-- ![cats!](http://placekitten.com/500/500) -->
+<!-- !SLIDE -->
+<!-- # DOGS -->
+<!-- ![dogs!](http://placedog.com/500/500) -->
 
 !SLIDE
 # Gists
@@ -16,6 +24,8 @@
 !SLIDE
 # Git Tutorial
 ## http://gitimmersion.com
+
+
 
 !SLIDE
 Git - version control
